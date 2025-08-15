@@ -1,0 +1,13 @@
+{
+  "locations": [
+    { "id": 1, "name": "Downtown" },
+    { "id": 2, "name": "Lincoln Park" },
+    { "id": 3, "name": "Hyde Park" },
+    { "id": 4, "name": "Wicker Park" }
+  ],
+  "properties": [
+    { "id": 1, "title": "Luxury Apartment", "type": "apartment", "price": 450000, "locationId": 1, "amenities": ["Pool", "Gym"] },
+    { "id": 2, "title": "Cozy House", "type": "house", "price": 350000, "locationId": 2, "amenities": ["Garden"] },
+    { "id": 3, "title": "Modern Apartment", "type": "apartment", "price": 300000, "locationId": 3, "amenities": ["Gym"] }
+  ]
+}

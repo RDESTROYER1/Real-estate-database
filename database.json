@@ -1,0 +1,158 @@
+{
+  "locations": [
+    { "id": 1, "name": "Downtown" },
+    { "id": 2, "name": "Lincoln Park" },
+    { "id": 3, "name": "Hyde Park" },
+    { "id": 4, "name": "Wicker Park" },
+    { "id": 5, "name": "Gold Coast" },
+    { "id": 6, "name": "River North" },
+    { "id": 7, "name": "South Loop" },
+    { "id": 8, "name": "Old Town" }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "title": "Luxury Downtown Condo",
+      "type": "condo",
+      "price": "$850,000",
+      "locationId": 1,
+      "amenities": ["Gym", "Rooftop Deck"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Modern Downtown Loft",
+      "type": "loft",
+      "price": "$925,000",
+      "locationId": 1,
+      "amenities": ["Open Concept", "City View"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Lincoln Park Townhouse",
+      "type": "townhouse",
+      "price": "$765,000",
+      "locationId": 2,
+      "amenities": ["Garden", "Great Schools"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Lincoln Park Family Home",
+      "type": "house",
+      "price": "$1,200,000",
+      "locationId": 2,
+      "amenities": ["Garage", "Basement"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Hyde Park Historic Brownstone",
+      "type": "brownstone",
+      "price": "$303,000",
+      "locationId": 3,
+      "amenities": ["Fireplace", "Hardwood Floors"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Hyde Park Modern Apartment",
+      "type": "apartment",
+      "price": "$280,000",
+      "locationId": 3,
+      "amenities": ["Gym", "Secure Entry"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Wicker Park Artist Loft",
+      "type": "loft",
+      "price": "$600,000",
+      "locationId": 4,
+      "amenities": ["High Ceilings", "Open Layout"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Wicker Park Craftsman Home",
+      "type": "house",
+      "price": "$550,000",
+      "locationId": 4,
+      "amenities": ["Porch", "Garden"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Gold Coast Penthouse",
+      "type": "penthouse",
+      "price": "$2,500,000",
+      "locationId": 5,
+      "amenities": ["Private Elevator", "Lake View"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Gold Coast Studio Apartment",
+      "type": "studio",
+      "price": "$325,000",
+      "locationId": 5,
+      "amenities": ["Compact", "Near Beach"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "River North Luxury Condo",
+      "type": "condo",
+      "price": "$975,000",
+      "locationId": 6,
+      "amenities": ["Concierge", "Rooftop Pool"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "River North Duplex",
+      "type": "duplex",
+      "price": "$1,400,000",
+      "locationId": 6,
+      "amenities": ["Two Floors", "Modern Kitchen"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/12.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "South Loop Modern Loft",
+      "type": "loft",
+      "price": "$720,000",
+      "locationId": 7,
+      "amenities": ["Exposed Brick", "Balcony"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "South Loop High-Rise Apartment",
+      "type": "apartment",
+      "price": "$510,000",
+      "locationId": 7,
+      "amenities": ["City Skyline View", "Pool"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Old Town Victorian House",
+      "type": "house",
+      "price": "$950,000",
+      "locationId": 8,
+      "amenities": ["Vintage Charm", "Backyard"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/15.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Old Town Luxury Villa",
+      "type": "villa",
+      "price": "$3,200,000",
+      "locationId": 8,
+      "amenities": ["Private Pool", "Garden"],
+      "image": "https://rdestroyer1.github.io/Chicago-Real-Estate-Portfolio/images/16.jpg"
+    }
+  ]
+}
